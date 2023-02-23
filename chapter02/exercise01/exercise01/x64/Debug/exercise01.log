@@ -1,0 +1,8 @@
+﻿  Building 'exercise01' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
+  exercise01.cpp
+  exercise01.vcxproj -> C:\github\chapter02\exercise01\x64\Debug\exercise01.sys
+  Done Adding Additional Store
+  Successfully signed: C:\github\chapter02\exercise01\x64\Debug\exercise01.sys
+  
+  Inf2Cat task was skipped as there were no inf files to process
+  
