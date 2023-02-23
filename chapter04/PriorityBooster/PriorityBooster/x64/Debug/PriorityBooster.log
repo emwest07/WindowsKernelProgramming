@@ -1,8 +1,0 @@
-﻿  Building 'PriorityBooster' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
-  PriorityBooster.cpp
-  PriorityBooster.vcxproj -> C:\github\chapter04\PriorityBooster\x64\Debug\PriorityBooster.sys
-  Done Adding Additional Store
-  Successfully signed: C:\github\chapter04\PriorityBooster\x64\Debug\PriorityBooster.sys
-  
-  Inf2Cat task was skipped as there were no inf files to process
-  

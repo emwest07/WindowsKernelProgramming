@@ -1,8 +1,0 @@
-﻿  Building 'Sample' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
-  Sample.cpp
-  Sample.vcxproj -> C:\github\chapter02\Sample\Debug\Sample.sys
-  Done Adding Additional Store
-  Successfully signed: C:\github\chapter02\Sample\Debug\Sample.sys
-  
-  Inf2Cat task was skipped as there were no inf files to process
-  

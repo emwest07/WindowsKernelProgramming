@@ -1,8 +1,0 @@
-﻿  Building 'ch03ex01' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
-  ch03ex01.cpp
-  ch03ex01.vcxproj -> C:\github\chapter03\ch03ex01\x64\Debug\ch03ex01.sys
-  Done Adding Additional Store
-  Successfully signed: C:\github\chapter03\ch03ex01\x64\Debug\ch03ex01.sys
-  
-  Inf2Cat task was skipped as there were no inf files to process
-  
